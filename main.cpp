@@ -44,6 +44,23 @@ int main(){
     //     cout << "The number is Odd" ;
     // }
 
+    // int num = 153;
+    // int sum = 0;
+    // int digit ;
+
+    // digit = num %  10;
+
+    // cout << digit;
+
+    //  sum = sum +(digit*digit*digit);
+
+    // cout << sum ;
+
+    // int value = num / 10;
+
+    // cout << value ;
+
+
 
     
     return 0;
